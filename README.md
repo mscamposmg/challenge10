@@ -1,5 +1,5 @@
 # challenge10
-# 10 Object-oriented Programming: SVG Logo Maker
+# Object-oriented Programming: SVG Logo Maker
 
 ## The application
 
@@ -9,7 +9,7 @@ Command line tool to generate an svg logo and write it ti jile. O hane utilied n
 
 Below is a link to a video walkthrough of the command line tool. The video shows the tool being used to generate a logo and write it to file. The video also shows the tests being run.
 
-Lnk: 
+Lnk: https://youtu.be/ZvtW6KRVLtg
 
 ## Usage
 
