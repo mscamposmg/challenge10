@@ -21,3 +21,9 @@ Run node index.js to start the application.
   Logo will be written to logo.svg in the working directory.
 Run tests with using npm run test.
 
+## References
+
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
+https://marketplace.visualstudio.com/items?itemName=jock.svg
+
