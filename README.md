@@ -13,11 +13,11 @@ Lnk:
 
 ## Usage
 
-  •	Run npm init to download package.json.
-  •	Run npm install to download dependencies.
-  •	Run npm install inquirer@8.2.4 to install the corresponding version to inquirer.
-    o	Run node index.js to start the application.
-    o	Answer questions to generate a logo.
-  •	Logo will be written to logo.svg in the working directory.
-  •	Run tests with using npm run test.
+Run npm init to download package.json.
+Run npm install to download dependencies.
+Run npm install inquirer@8.2.4 to install the corresponding version to inquirer.
+Run node index.js to start the application.
+  Answer questions to generate a logo.
+  Logo will be written to logo.svg in the working directory.
+Run tests with using npm run test.
 
